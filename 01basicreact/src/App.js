@@ -1,3 +1,4 @@
+import Chai from "./Chai";
 function App() {
   return (
     <div>
@@ -9,6 +10,7 @@ function App() {
         more about starting my project. Where to initiate it from, what things
         need to be deleted, and how to manipulate it.
       </h3>
+      <Chai />
     </div>
   );
 }
