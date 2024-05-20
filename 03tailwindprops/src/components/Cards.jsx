@@ -31,7 +31,7 @@ function Cards({ username, btnText = "Visit me" }) {
                 <polyline points="7 7 17 7 17 17"></polyline>
               </svg>
             </h1>
-            <p className="mt-3 text-sm text-gray-600">
+            <p className="mt-3 text-sm text-white-600">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Excepturi, debitis?
             </p>
@@ -56,10 +56,10 @@ function Cards({ username, btnText = "Visit me" }) {
                 alt="itsfarrukhali"
               />
               <span className="flex flex-col">
-                <span className="text-[10px] font-medium text-gray-900">
+                <span className="text-[10px] font-medium text-white-900">
                   Farrukh Ali
                 </span>
-                <span className="text-[8px] font-medium text-gray-500">
+                <span className="text-[8px] font-medium text-white-500">
                   @itsfarrukhali
                 </span>
               </span>
